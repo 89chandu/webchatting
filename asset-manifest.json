@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/89chandu/webchat/static/css/main.a92824f8.css",
-    "main.js": "/89chandu/webchat/static/js/main.98cf7984.js",
-    "index.html": "/89chandu/webchat/index.html",
-    "main.a92824f8.css.map": "/89chandu/webchat/static/css/main.a92824f8.css.map",
-    "main.98cf7984.js.map": "/89chandu/webchat/static/js/main.98cf7984.js.map"
+    "main.css": "/89chandu/webchatting/static/css/main.a92824f8.css",
+    "main.js": "/89chandu/webchatting/static/js/main.c03017cb.js",
+    "index.html": "/89chandu/webchatting/index.html",
+    "main.a92824f8.css.map": "/89chandu/webchatting/static/css/main.a92824f8.css.map",
+    "main.c03017cb.js.map": "/89chandu/webchatting/static/js/main.c03017cb.js.map"
   },
   "entrypoints": [
     "static/css/main.a92824f8.css",
-    "static/js/main.98cf7984.js"
+    "static/js/main.c03017cb.js"
   ]
 }
